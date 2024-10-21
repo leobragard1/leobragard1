@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currently studying software development at Lund University
 <!--
 **leobragard1/leobragard1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
